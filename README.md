@@ -7,7 +7,7 @@ agora em mundo aberto. Feito em HTML/JavaScript, sem instalação: abra `index.h
 
 **Jogar online:** https://hebersonmiliano.github.io/portal-jogos/jogo.html?id=brasa-eterna-2
 
-> Versão 0.6, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
+> Versão 0.7, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
 
 ## História
 
@@ -42,6 +42,7 @@ onde uma pedra negra caiu do céu e diz apenas: "ainda não".
 - **Grande Biblioteca de Aurora**: 9 livros ilustrados sobre a história dos jogos 1 e 2 (a Chama Sagrada, Morvane, as crônicas de Kael, bestiário, gigantes, povos, guia da vila, a Cinza Negra e o Diário de Kael), com leitura em tela cheia e páginas que viram
 - **Fortaleza da Brasa, o castelo do Kael**: a leste da vila há ruínas tomadas por monstros. Limpe-as e o Mestre Gaspar reconstrói tudo: muralhas e torres, Salão do Trono (impostos diários), Forja Real (equipamentos reais), Grande Cozinha (porção dupla), Quartel, Estábulo com carruagem, Pomar Real, Torre de Vigia e casas para novos moradores
 - **Costa Coral (região 2)**, ao sul da vila: praia tropical, Porto Coral com casas de palafita, píer e farol; coco, manga, banana e maracujá; equipamentos de coral mais fortes; pesca no mar; Concha Esperta na Taverna do Polvo; 3 missões novas
+- **Formas da Faísca**: Lobo de Brasa (avança e morde), Coruja de Cinza (penas perfurantes, sente segredos), Tartaruga de Lava (bloqueia tiros, +defesa) e Raposa Solar (ímã de itens, mais gemas, luz), cada uma com nível até 5
 - **Jornada**: o próximo passo da história sempre na tela
 - Bônus para quem terminou o primeiro jogo
 
