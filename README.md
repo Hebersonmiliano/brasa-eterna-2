@@ -7,7 +7,7 @@ agora em mundo aberto. Feito em HTML/JavaScript, sem instalação: abra `index.h
 
 **Jogar online:** https://hebersonmiliano.github.io/portal-jogos/jogo.html?id=brasa-eterna-2
 
-> Versão 0.3, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
+> Versão 0.4, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
 
 ## História
 
@@ -39,6 +39,7 @@ onde uma pedra negra caiu do céu e diz apenas: "ainda não".
 - **Frutas e culinária**: 7 frutas em pomares pela região, carne dos monstros, fogueiras para descansar e cozinhar, 14 receitas (do omelete ao Elixir da Chama) compradas ou ganhas em missões
 - **Pescaria**: vara de pesca, 10 espécies (lago, rios, Cisterna, dia e noite) e o lendário Rei do Lago
 - **Jokenpô na pousada** contra o Tico Pedrada, com apostas, sequências de vitórias e prêmios
+- **Grande Biblioteca de Aurora**: 9 livros ilustrados sobre a história dos jogos 1 e 2 (a Chama Sagrada, Morvane, as crônicas de Kael, bestiário, gigantes, povos, guia da vila, a Cinza Negra e o Diário de Kael), com leitura em tela cheia e páginas que viram
 - Bônus para quem terminou o primeiro jogo
 
 ## Controles
