@@ -7,7 +7,7 @@ agora em mundo aberto. Feito em HTML/JavaScript, sem instalação: abra `index.h
 
 **Jogar online:** https://hebersonmiliano.github.io/portal-jogos/jogo.html?id=brasa-eterna-2
 
-> Versão 0.2, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
+> Versão 0.3, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
 
 ## História
 
@@ -34,6 +34,11 @@ onde uma pedra negra caiu do céu e diz apenas: "ainda não".
 - **Farm**: os monstros das masmorras voltam a aparecer, inclusive os raros
 - **38 conquistas no estilo Steam**, com ícones, barras de progresso, conquistas secretas e aviso na tela
 - **3 espaços de save**, salvamento automático e "Salvar agora" nas opções
+- **Fama**: missões e chefes tornam Kael conhecido; moradores dão presentes e as lojas dão descontos
+- **Romance com a Bea**: amizade, flores, passeios (lagoa, jardim, floresta), anel de noivado, a super missão do Anel Eterno, o casamento e dois filhos, a Lumi e o Ian, num lar próprio
+- **Frutas e culinária**: 7 frutas em pomares pela região, carne dos monstros, fogueiras para descansar e cozinhar, 14 receitas (do omelete ao Elixir da Chama) compradas ou ganhas em missões
+- **Pescaria**: vara de pesca, 10 espécies (lago, rios, Cisterna, dia e noite) e o lendário Rei do Lago
+- **Jokenpô na pousada** contra o Tico Pedrada, com apostas, sequências de vitórias e prêmios
 - Bônus para quem terminou o primeiro jogo
 
 ## Controles
