@@ -43,6 +43,8 @@ onde uma pedra negra caiu do céu e diz apenas: "ainda não".
 - **Fortaleza da Brasa, o castelo do Kael**: a leste da vila há ruínas tomadas por monstros. Limpe-as e o Mestre Gaspar reconstrói tudo: muralhas e torres, Salão do Trono (impostos diários), Forja Real (equipamentos reais), Grande Cozinha (porção dupla), Quartel, Estábulo com carruagem, Pomar Real, Torre de Vigia e casas para novos moradores
 - **Costa Coral (região 2)**, ao sul da vila: praia tropical, Porto Coral com casas de palafita, píer e farol; coco, manga, banana e maracujá; equipamentos de coral mais fortes; pesca no mar; Concha Esperta na Taverna do Polvo; 3 missões novas
 - **Bosque das Brumas (região 3)**, a oeste da vila: floresta enevoada com cogumelos gigantes e vaga-lumes; Aldeia Cogumelo com 5 casas-cogumelo; mirtilo, amora, figo e jabuticaba; equipamentos das brumas; Corrida de Besouros na Taverna do Besouro; Templo das Brumas (teias que só o fogo queima, aranhas); chefe gigante **Nebla, a Mãe-Aranha**; 4 missões novas e peixes que brilham no escuro
+- **Castelo vivo**: 18 obras na Fortaleza (novas: Padaria Real, Mercado Real, Taverna da Coroa com os Dados da Coroa, Mina e Oficina, 2 casas); cada morador tem profissão e o reino produz comida, ferro, cristal e gemas todo dia; a família de Kael mora no castelo e faz o reino prosperar
+- **Romance simples**: trilha paralela com passos claros e coração rosa no mapa; o jogo continua depois do casamento
 - **Formas da Faísca**: Lobo de Brasa (avança e morde), Coruja de Cinza (penas perfurantes, sente segredos), Tartaruga de Lava (bloqueia tiros, +defesa) e Raposa Solar (ímã de itens, mais gemas, luz), cada uma com nível até 5
 - **Jornada**: o próximo passo da história sempre na tela
 - Bônus para quem terminou o primeiro jogo
