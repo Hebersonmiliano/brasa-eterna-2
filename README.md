@@ -7,13 +7,14 @@ agora em mundo aberto. Feito em HTML/JavaScript, sem instalação: abra `index.h
 
 **Jogar online:** https://hebersonmiliano.github.io/portal-jogos/jogo.html?id=brasa-eterna-2
 
-> Versão 0.7, em construção. Novas regiões, chefes e o grande segredo de Kael chegam nas próximas versões.
+> **Versão 1.0: história completa!** Do começo na Vila Aurora até o grande segredo de Kael, dentro da Pedra Negra.
 
 ## História
 
 Morvane caiu e as cinco brasas voltaram a arder. Mas, no Deserto de Vidro, Kael encontrou uma
 cinza negra e fria. Ele segue o rastro além das fronteiras de Valdora e chega à Vila Aurora,
-onde uma pedra negra caiu do céu e diz apenas: "ainda não".
+onde uma pedra negra caiu do céu e diz apenas: "ainda não". Cada gigante que cai deixa uma pista,
+e quando as sete vozes se juntam, a pedra vira um espelho... e a resposta está do outro lado.
 
 ## O que tem nesta versão
 
@@ -32,7 +33,7 @@ onde uma pedra negra caiu do céu e diz apenas: "ainda não".
 - **Trilha sonora com instrumentos**: cordas, metais, piano, flauta, sinos, órgão, guitarra distorcida e bateria, com tema próprio para vila, noite, pousada, cada masmorra e cada chefe
 - **Casas temáticas**: pousada, ferraria de ferro e pedra, mercearia, casa do Ancião e casa da Rosa, cada uma com fachada, placa com o nome e interior próprios
 - **Farm**: os monstros das masmorras voltam a aparecer, inclusive os raros
-- **38 conquistas no estilo Steam**, com ícones, barras de progresso, conquistas secretas e aviso na tela
+- **103 conquistas no estilo Steam**, com ícones, barras de progresso, conquistas secretas e aviso na tela
 - **3 espaços de save**, salvamento automático e "Salvar agora" nas opções
 - **Fama**: missões e chefes tornam Kael conhecido; moradores dão presentes e as lojas dão descontos
 - **Romance com a Maria Luiza**: amizade, flores, passeios (lagoa, jardim, floresta), anel de noivado, a super missão do Anel Eterno, o casamento e duas filhas, Helen Cristine e Mariana, num lar próprio
@@ -47,7 +48,11 @@ onde uma pedra negra caiu do céu e diz apenas: "ainda não".
 - **Castelo vivo**: 18 obras na Fortaleza (novas: Padaria Real, Mercado Real, Taverna da Coroa com os Dados da Coroa, Mina e Oficina, 2 casas); cada morador tem profissão e o reino produz comida, ferro, cristal e gemas todo dia; a família de Kael mora no castelo e faz o reino prosperar
 - **Romance simples**: trilha paralela com passos claros e coração rosa no mapa; o jogo continua depois do casamento
 - **Formas da Faísca**: Lobo de Brasa (avança e morde), Coruja de Cinza (penas perfurantes, sente segredos), Tartaruga de Lava (bloqueia tiros, +defesa) e Raposa Solar (ímã de itens, mais gemas, luz), cada uma com nível até 5
-- **Jornada**: o próximo passo da história sempre na tela
+- **Selva Tribal (região 4)**, ao sul do Bosque das Brumas: Aldeia Jatobá com cabanas nas árvores, açaí, cupuaçu, caju e guaraná, equipamentos da selva, Batuque na taverna, Templo das Máscaras e o chefe gigante **Lagarto da Máscara** (madeira, pedra e ouro)
+- **Capítulo final: Agora Sim** 🔥 com as sete pistas dos gigantes, a Pedra Negra se abre para **O Mundo em Rascunho**, uma masmorra desenhada a lápis: Galeria dos Gigantes, Página Apagada com lápis que redesenham a ponte, Porta de Grafite e a emboscada dos rabiscos e borrachas no Salão dos Espelhos
+- **Chefe final: a Cinza Negra**, em três formas: a borracha que apaga o chão (ataque quando a mão ficar presa), o Espelho de Cinza (pegue a Pena Dourada para ferir o reflexo) e o Fim Inacabado (o coração frio só sente o fogo da Chama)
+- **O grande segredo de Kael**, o final com a festa em Aurora, **créditos** e o mundo aberto continua depois do fim, com a espada lendária **Pena da Chama** e a Pedra Negra agora quente
+- **Jornada**: o próximo passo da história sempre na tela, até a JORNADA COMPLETA
 - Bônus para quem terminou o primeiro jogo
 
 ## Controles
